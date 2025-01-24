@@ -52,7 +52,7 @@ git clone https://github.com/sipunpanda/Task-Management.git
 ```
 ### 2. Move into the directory
 ```
-cd task-management-system
+cd Task-Management
 ```
 ### 3. Install dependencies
 ```
