@@ -50,6 +50,7 @@ Follow these steps to set up and run the project locally:
 git clone https://github.com/your-username/task-management-system.git
 cd task-management-system
 
+```bash
 ### 2. install the dependencies required
 npm install
 
