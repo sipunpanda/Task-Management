@@ -52,5 +52,5 @@ cd task-management-system
 
 npm install
 
-npm start
+npm run dev
 
