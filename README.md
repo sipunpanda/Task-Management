@@ -45,6 +45,7 @@ Ensure you have the following installed on your machine:
 Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/task-management-system.git
 cd task-management-system
