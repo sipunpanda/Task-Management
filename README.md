@@ -47,7 +47,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/task-management-system.git
+git clone https://github.com/sipunpanda/Task-Management.git
 
 ```
 ### 2. Move into the directory
